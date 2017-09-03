@@ -1,0 +1,8 @@
+README.txt
+setup.py
+pyaapt/__init__.py
+pyaapt.egg-info/PKG-INFO
+pyaapt.egg-info/SOURCES.txt
+pyaapt.egg-info/dependency_links.txt
+pyaapt.egg-info/namespace_packages.txt
+pyaapt.egg-info/top_level.txt

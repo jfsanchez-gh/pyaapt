@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pyaapt
+Version: 0.1.1
+Summary: Python wrapper for Android aapt command line tool.
+Home-page: UNKNOWN
+Author: Jorge Fernández Sánchez
+Author-email: jfsanchez.email@gmail.com
+License: GPLv2
+Description: 
+        
+        
+Keywords: android aapt wrapper
+Platform: UNKNOWN
