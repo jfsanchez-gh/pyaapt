@@ -9,6 +9,7 @@ setup(
 	version=version,
 	description=("Python wrapper for Android aapt command line tool."),
 	long_description=long_description,
+	url='https://github.com/jfsanchez-gh/pyaapt',
 	keywords='android aapt wrapper',
 	author='Jorge Fernández Sánchez',
 	author_email='jfsanchez.email@gmail.com',
