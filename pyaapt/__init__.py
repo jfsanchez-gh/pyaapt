@@ -1,3 +1,7 @@
+import pkg_resources
+pkg_resources.declare_namespace(__name__)
+
+
 from os import path
 import re
 

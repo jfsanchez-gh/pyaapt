@@ -1,6 +1,9 @@
+.gitignore
 README.txt
 setup.py
 pyaapt/__init__.py
+pyaapt/apk_info.py
+pyaapt/utils.py
 pyaapt.egg-info/PKG-INFO
 pyaapt.egg-info/SOURCES.txt
 pyaapt.egg-info/dependency_links.txt

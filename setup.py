@@ -13,6 +13,6 @@ setup(
 	author='Jorge Fernández Sánchez',
 	author_email='jfsanchez.email@gmail.com',
 	license='GPLv2',
-	packages=find_packages(),
+	packages=['pyaapt'],
 	namespace_packages=['pyaapt'],
 )
