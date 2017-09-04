@@ -1,5 +1,6 @@
 .gitignore
 README.txt
+setup.cfg
 setup.py
 pyaapt/__init__.py
 pyaapt/apk_info.py
